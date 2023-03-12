@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrl-v1", "WebCrl-v1\WebCrl-v1.csproj", "{D786CEB1-59A3-4E8B-B15D-A57A6CAC3CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D786CEB1-59A3-4E8B-B15D-A57A6CAC3CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D786CEB1-59A3-4E8B-B15D-A57A6CAC3CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D786CEB1-59A3-4E8B-B15D-A57A6CAC3CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D786CEB1-59A3-4E8B-B15D-A57A6CAC3CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D283C70-70A0-41D5-B749-4B22C8057C2E}
+	EndGlobalSection
+EndGlobal
